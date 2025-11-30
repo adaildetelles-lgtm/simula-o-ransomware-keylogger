@@ -22,7 +22,6 @@ Demonstrar entendimento técnico sobre:
 ---
 
 # 🧩 1. Ransomware Simulado
-📁 Pasta: `simulacao_ransomware/`
 
 ### O que foi documentado:
 - Como ransomwares funcionam (fluxo real vs seguro)
@@ -42,7 +41,6 @@ Aprender:
 ---
 
 # 🎹 2. Keylogger Simulado
-📁 Pasta: `simulacao_keylogger/`
 
 ### O que foi documentado:
 - Funcionamento teórico de keyloggers reais
@@ -57,7 +55,6 @@ Aprender:
 ---
 
 # 🛡 3. Reflexão sobre Defesa
-📁 Pasta: `defesa/`
 
 Nesta seção, eu documento:
 
@@ -83,28 +80,6 @@ Nesta seção, eu documento:
 
 ---
 
-# 📸 Prints e Diagramas
-Alguns arquivos (opcionais):
-
-- Fluxo de um ransomware
-- Fluxo de um keylogger
-- Demonstrações da simulação
-- Estrutura de criptografia segura
-
----
-
-# 📌 Como Executar as Simulações (Opcional)
-### Ransomware Simulado
-- Crie a pasta `lab_ransom_test`
-- Teste o script seguro (exemplo dentro da pasta)
-- Criptografe e descriptografe os arquivos de teste
-
-### Keylogger Simulado
-- Execute o script seguro
-- Observe apenas os *eventos*, não as teclas
-
----
-
 # 📚 Tecnologias Utilizadas
 - Python (somente scripts seguros)
 - Criptografia com `cryptography`
@@ -127,6 +102,6 @@ Este repositório demonstra:
 - Capacidade de análise e documentação
 - Maturidade no uso seguro de simulações
 
-Esse projeto atende aos requisitos da DIO para “Entregar Projeto”.
+
 
 ---
